@@ -1,0 +1,9 @@
+@import "tailwindcss/base.css";
+@import "tailwindcss/components.css";
+@import "tailwindcss/utilities.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
